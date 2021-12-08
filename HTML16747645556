@@ -1,0 +1,18 @@
+<html>
+    <title>Футбол.</title>
+    <body>
+        <header>
+        </header>
+        <main>
+            <h1>Немного о футболе.</h1>
+            <p>На все вопросы о футболе мы ответим!</p>
+            <br/><img src="https://cdn.pixabay.com/photo/2013/07/13/10/51/football-157931__340.png"width=150px height=150px>
+            <p>Расскажем про самые яркие матчи и так далее.<p/>
+            <h2>БЛИЖАЙШИЕ МАТЧИ К КОНЦУ 2021 ГОДА!</h2><br/><img src="https://cdn.pixabay.com/photo/2021/03/28/08/18/ronaldo-6130591_960_720.jpg"width=120px height=120px>
+            <h2>Cколько зарабатывают популярные футболисты?</h2><br/><img src="https://cdn.pixabay.com/photo/2021/08/27/13/52/lionel-messi-6578717_960_720.jpg"width=100px height=100px>
+              
+     </main>
+        <footer>
+        </footer>
+    </body>
+</html>
